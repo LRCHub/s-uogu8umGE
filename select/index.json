@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Lydia",
+  "base_artist": "F.I.R.",
+  "createdAt": "2026-02-14T10:10:24.446578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dust On It (feat. Lydia Sutherland)",
+      "artist": "Jesse Slack feat. Lydia Sutherland",
+      "has_synced": true,
+      "path": "select/01_Dust_On_It_(feat._Lydia_Sutherland)_Jesse_Slack_feat._Lydia_Sutherland.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lydia",
+      "artist": "F.I.R.",
+      "has_synced": true,
+      "path": "select/02_Lydia_F.I.R..lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If You Can't Do It Good, Do It Hard (feat. Lydia Lunch)",
+      "artist": "Against All Logic feat. Lydia Lunch",
+      "has_synced": true,
+      "path": "select/03_If_You_Can't_Do_It_Good,_Do_It_Hard_(feat._Lydia_Lunch)_Against_All_Logic_feat._Lydia_Lunch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If You Can't Do It Good, Do It Harder (feat. Lydia Lunch)",
+      "artist": "Against All Logic",
+      "has_synced": true,
+      "path": "select/04_If_You_Can't_Do_It_Good,_Do_It_Harder_(feat._Lydia_Lunch)_Against_All_Logic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lydia (Please Make It Better)",
+      "artist": "Fred again..",
+      "has_synced": true,
+      "path": "select/05_Lydia_(Please_Make_It_Better)_Fred_again...lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lydia Wears A Cross",
+      "artist": "Julia Jacklin",
+      "has_synced": true,
+      "path": "select/06_Lydia_Wears_A_Cross_Julia_Jacklin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lydia",
+      "artist": "Her Space Holiday",
+      "has_synced": false,
+      "path": "select/07_Lydia_Her_Space_Holiday.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lydia (Live at Shepherd's Bush Empire, London)",
+      "artist": "Paradise Lost",
+      "has_synced": false,
+      "path": "select/08_Lydia_(Live_at_Shepherd's_Bush_Empire,_London)_Paradise_Lost.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Psalm of Lydia",
+      "artist": "Nevermore",
+      "has_synced": true,
+      "path": "select/09_The_Psalm_of_Lydia_Nevermore.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Death Valley '69 (feat. Lydia Lunch)",
+      "artist": "Sonic Youth",
+      "has_synced": false,
+      "path": "select/10_Death_Valley_'69_(feat._Lydia_Lunch)_Sonic_Youth.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Death Valley '69 (W/ Lydia Lunch)",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/11_Death_Valley_'69_(W__Lydia_Lunch)_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lydia",
+      "artist": "Highly Suspect",
+      "has_synced": true,
+      "path": "select/12_Lydia_Highly_Suspect.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lydia",
+      "artist": "Highly Suspect",
+      "has_synced": true,
+      "path": "select/13_Lydia_Highly_Suspect.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lydia",
+      "artist": "Dean Friedman",
+      "has_synced": true,
+      "path": "select/14_Lydia_Dean_Friedman.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lydia (Clean)",
+      "artist": "Highly Suspect",
+      "has_synced": true,
+      "path": "select/15_Lydia_(Clean)_Highly_Suspect.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Donald & Lydia",
+      "artist": "John Prine",
+      "has_synced": true,
+      "path": "select/16_Donald_&_Lydia_John_Prine.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lydia",
+      "artist": "F.I.R.",
+      "has_synced": false,
+      "path": "select/pl_01_Lydia_F.I.R..txt"
+    }
+  ]
+}
